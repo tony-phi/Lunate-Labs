@@ -1,2 +1,10 @@
 title: My Website
 theme: jekyll-theme-cayman
+
+# Optional manual nav to show pages
+- title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
