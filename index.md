@@ -4,4 +4,4 @@ title: Lunate Labs Website
 ---
 # Welcome to Lunate Labs
 
-This site is powered by GitHub Pages.
+We build rehabtech alongside clinicians and patients with joy outcomes.
