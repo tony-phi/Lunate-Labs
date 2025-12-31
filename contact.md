@@ -5,4 +5,4 @@ permalink: /contact/
 ---
 # Contact Information
 
-Contact us at XXX
+You can contact us at XXX
