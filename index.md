@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Lunate Labs Website
+title: Home
 ---
 # Welcome to Lunate Labs
 
