@@ -3,6 +3,6 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-# Contact Information
+# Contact Us
 
 You can contact us at XXX
