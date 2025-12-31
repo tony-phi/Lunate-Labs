@@ -1,2 +1,10 @@
 title: Lunate Labs
 theme: minima
+
+nav:
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+  - title: Home
+    url: /
